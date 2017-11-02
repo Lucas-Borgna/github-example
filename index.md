@@ -1,4 +1,4 @@
-APARENTLY THIS IS A HEADER
+This title is not self referencing
 ==========================
 
 This is normal content in a markdown file - markdown is fab but I miss html
