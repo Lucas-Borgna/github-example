@@ -1,4 +1,4 @@
-This title is not self referencing
+THIS IS AN IMPROVED TITLE V2.0
 ==========================
 
 This is normal content in a markdown file - markdown is fab but I miss html
