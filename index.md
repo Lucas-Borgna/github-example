@@ -1,4 +1,4 @@
-APARENTLY THIS IS A HEADER
+THIS IS AN IMPROVED TITLE V2.0
 ==========================
 
 This is normal content in a markdown file
